@@ -12,7 +12,7 @@ class InstallHook(_install):
 
 setup(
 	cmdclass = {"install": InstallHook},
-	name = "",
+	name = "Skeleton_Python",
 	version = "0.0.1",
 	description = "",
 	author = "",
